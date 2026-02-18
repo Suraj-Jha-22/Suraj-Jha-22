@@ -1,5 +1,3 @@
-Suraj-Jha-22/README.md# Suraj Jha
-
 Data Scientist | ML Systems Engineer | GenAI | GPU Enthusiast ⚡
 
 ## 🚀 Current Focus
