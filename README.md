@@ -1,48 +1,36 @@
-## Hi there 👋 I'm Suraj Jha
+Suraj-Jha-22/README.md# Suraj Jha
 
-⚡ Data Scientist | ML Systems Engineer | GenAI | GPU Enthusiast  
+Data Scientist | ML Systems Engineer | GenAI | GPU Enthusiast ⚡
 
----
+## 🚀 Current Focus
+- Data Science (GenAI) @ **Solytics Partners**
+- Building **Model Inventory**, **LLM Monitoring**, and **LLM Validation** modules
+- Working on **Nimbus UNO** (private) — architecture + ML systems
 
-🔭 I’m currently working on  
-- GenAI systems at **Solytics Partners**  
-- **Model Inventory**, **LLM Monitoring**, and **LLM Validation** modules  
-- **Nimbus UNO** (private) — ML systems architecture  
+## 🧠 Open Source
+### Memory Engine for AI Assistants (WIP) *(details undisclosed)*
+- Rust + PyTorch + FastAPI stack
+- Long-term & short-term memory graphs
+- Retrieval + state tracking
+- Token-efficient context construction
+- Memory quality evaluation pipelines
+- Designed for multi-agent, tool-using systems
 
-🌱 I’m currently learning  
-- FP8 / bfloat16 training at scale  
-- Triton kernel fusion & memory-bound optimization  
-- Throughput benchmarking for Transformers  
+## 🧪 Also Worked On
+- FP8 / bfloat16 hybrid training
+- Triton kernels (quantization, dequantization, fused GEMM)
+- Throughput-first Transformer optimization
+- Memory-bound performance analysis
+- Target: NeurIPS-level systems research
 
-👯 I’m looking to collaborate on  
-- Efficient Transformer training  
-- LLM evaluation & monitoring frameworks  
-- Systems for high tokens/sec  
+## 🛠️ Tech Stack
+**Languages:** C/C++ • Python • Rust  
+**ML/Systems:** PyTorch • Triton • CUDA • Transformers • FlashAttention  
+**GenAI:** LLM evaluation • monitoring • validation • RAG pipelines  
+**Backend:** Django REST • FastAPI • PostgreSQL • Redis  
+**Infra:** Docker • Nginx • Linux • CI/CD • Profiling (nsys, torch.profiler)
 
-🧠 Open source  
-- Memory Engine for AI Assistants (Rust + PyTorch + FastAPI)  
-  - Long/short-term memory graphs  
-  - Retrieval + state tracking  
-  - Token-efficient context building  
-  - Multi-agent ready *(details undisclosed)*  
-
-💬 Ask me about  
-- Triton kernels  
-- Quantization pipelines  
-- LLM monitoring & validation  
-- Throughput optimization  
-
-🛠️ Tech stack  
-- **Languages:** C/C++ • Python • Rust  
-- **ML/Systems:** PyTorch • Triton • CUDA • Transformers • FlashAttention  
-- **GenAI:** RAG • LLM eval • monitoring • validation  
-- **Backend:** Django REST • FastAPI • PostgreSQL • Redis  
-- **Infra:** Docker • Nginx • Linux • CI/CD • nsys • torch.profiler  
-
-⚙️ Philosophy  
+## ⚙️ Philosophy
 Throughput > FLOPs  
 Minimize memory movement  
-Measure end-to-end tokens/sec  
-
-🎯 Goal  
-NeurIPS-level research in efficient large-scale training
+Measure end-to-end tokens/sec
